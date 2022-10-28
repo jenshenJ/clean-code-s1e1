@@ -25,7 +25,7 @@
   .header-info {
     text-align: center;
   }
-  
+
 }
 
 .main-page-element {
@@ -117,6 +117,7 @@
 .text-input#new-task {
   width: 318px;
 }
+
 
 /* Task list */
 .tasklist-element {
